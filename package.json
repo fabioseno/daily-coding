@@ -1,0 +1,25 @@
+{
+  "name": "daily-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioseno/daily-coding.git"
+  },
+  "author": "Fábio Akira Yoshida <fabioseno@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabioseno/daily-coding/issues"
+  },
+  "homepage": "https://github.com/fabioseno/daily-coding#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.5.1",
+    "typescript": "^4.5.5"
+  }
+}
